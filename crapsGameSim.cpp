@@ -1,37 +1,3 @@
-/* ================================================================
-PROGRAM Simulate Craps
-
-        AUTHOR: <Antwon Bryce>
-        FSU MAIL NAME: <acb19d>
-        RECITATION SECTION NUMBER: <03>
-        RECITATION INSTRUCTOR NAME: <Samuel Ostlund>
-        Course Information: <COP 3014>
-        Project Number: <4>
-        Due Date: <Wednesday 10, 2021>
-        PLATFORM: Windows OS / CLion IDE
-
-SUMMARY
-
-This program will be used to simulate the dice rolling game known as Craps.
-Within this program, the game is played by two players following a set of rules.
-
-INPUT
-
-There is no input for this program.
-
-OUTPUT
-
-Prints out each wager and player along with the bet that is placed
-as well as the roll of the dice.
-
-ASSUMPTIONS
-- Assume that 20 wagers occur.
-- Assume that each player starts out with a balance of $1000.
-- Assume when player 1 is rolling, he always bets $100 on each wager.
-
- */
-/* ================================================================ */
-
 #include <iostream>
 #include <ctime>
 #include <cstdlib>
